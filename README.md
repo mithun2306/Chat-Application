@@ -1,2 +1,3 @@
-# Chat-Application
-Chat app using socket programming with TCP/IP, user auth, real-time updates, and security.
+ Basic Chat Application Using Socket Programming
+
+This project involves the design and implementation of a basic chat application using socket programming. It features a client-server model, allowing real-time communication between users. The application utilizes TCP/IP for reliable data transmission and includes user authentication to ensure secure access. Messages are broadcasted to all connected users, providing real-time updates. The server handles multiple concurrent connections through multithreading, and robust error handling mechanisms are implemented. Security measures, such as data encryption, are integrated to protect user data. This project demonstrates the use of socket programming for creating efficient and secure communication tools.
